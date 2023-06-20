@@ -1,0 +1,18 @@
+[
+  {
+    "title": "Producto 1",
+    "description": "Descripción del producto 1",
+    "price": 19.99,
+    "thumbnail": "ruta/de/imagen1.png",
+    "code": "DEF456",
+    "stock": 8
+  },
+  {
+    "title": "Producto 2",
+    "description": "Descripción del producto 2",
+    "price": 29.99,
+    "thumbnail": "ruta/de/imagen2.png",
+    "code": "GHI789",
+    "stock": 15
+  }
+]

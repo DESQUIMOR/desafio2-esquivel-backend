@@ -24,7 +24,7 @@ class ProductManager {
     getProductById(id) {
         const products = this.getProducts();
         for (const product of products) {
-            if (product.id === id) {
+            if (product.id === +id) {
                 return product;
             }
         }
@@ -59,6 +59,8 @@ class ProductManager {
         fs.writeFileSync(this.path, JSON.stringify(products, null, 2));
     }
 }
+
+module.exports = ProductManager;
 
 // Pruebas
 const productManager = new ProductManager('productos.json');
