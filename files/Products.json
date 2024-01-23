@@ -1,0 +1,83 @@
+[
+  {
+    "id": 0,
+    "title": "Headphones",
+    "description": "Wireless over-ear headphones with noise cancellation.",
+    "price": 149.99,
+    "thumbnail": "images/headphones.jpg",
+    "code": "HD005",
+    "stock": 15
+  },
+  {
+    "id": 1,
+    "title": "Headphones",
+    "description": "Wireless over-ear headphones with noise cancellation.",
+    "price": 149.99,
+    "thumbnail": "images/headphones.jpg",
+    "code": "HD006",
+    "stock": 15
+  },
+  {
+    "id": 2,
+    "title": "Headphones",
+    "description": "Wireless over-ear headphones with noise cancellation.",
+    "price": 149.99,
+    "thumbnail": "images/headphones.jpg",
+    "code": "HD009",
+    "stock": 15
+  },
+  {
+    "id": 4,
+    "title": "Headphones",
+    "description": "Wireless over-ear headphones with noise cancellation.",
+    "price": 149.99,
+    "thumbnail": "images/headphones.jpg",
+    "code": "HD110",
+    "stock": 15
+  },
+  {
+    "id": 5,
+    "title": "Headphones",
+    "description": "Wireless over-ear headphones with noise cancellation.",
+    "price": 149.99,
+    "thumbnail": "images/headphones.jpg",
+    "code": "HD111",
+    "stock": 15
+  },
+  {
+    "id": 6,
+    "title": "Headphones",
+    "description": "Wireless over-ear headphones with noise cancellation.",
+    "price": 149.99,
+    "thumbnail": "images/headphones.jpg",
+    "code": "HD211",
+    "stock": 15
+  },
+  {
+    "id": 7,
+    "title": "Headphones",
+    "description": "Wireless over-ear headphones with noise cancellation.",
+    "price": 149.99,
+    "thumbnail": "images/headphones.jpg",
+    "code": "HD221",
+    "stock": 15
+  },
+  {
+    "id": 10,
+    "title": "Headphones",
+    "description": "Wireless over-ear headphones with noise cancellation.",
+    "price": 149.99,
+    "thumbnail": "images/headphones.jpg",
+    "code": "HD461",
+    "stock": 15
+  },
+  {
+    "id": 11,
+    "title": "Headphones",
+    "description": "Wireless over-ear headphones with noise cancellation.",
+    "price": 149.99,
+    "thumbnail": "images/headphones.jpg",
+    "code": "HD471",
+    "stock": 15
+  }
+]
